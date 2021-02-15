@@ -1,5 +1,5 @@
 # Forecasting: Principles and Practice (3rd Ed.)
-by Rob J. Hyndman &amp; George Athanasopoulos
+by Rob J Hyndman and George Athanasopoulos
 
 ## Material
 - [Online textbook](https://otexts.com/fpp3/)
